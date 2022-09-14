@@ -9,3 +9,5 @@ This action is not meant to be used in production - it is an ironic action.
 ```yaml
 - uses: taskmedia/read-only-friday@
 ```
+
+test
