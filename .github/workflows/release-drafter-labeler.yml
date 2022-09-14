@@ -21,6 +21,8 @@ jobs:
 
     steps:
       # Drafts your next Release notes as Pull Requests are merged into "main"
+      - run: sleep 120
+      
       - uses: release-drafter/release-drafter@v5
         id: releasedrafter
         with:
