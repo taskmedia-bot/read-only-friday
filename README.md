@@ -14,4 +14,4 @@ enabled automerge now
 
 test pat
 
-without required approvals
+without required approvals - instant merge without test finished
