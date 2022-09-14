@@ -13,3 +13,5 @@ enabled automerge now
 
 
 test pat
+
+without required approvals
